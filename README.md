@@ -23,6 +23,7 @@ I'm an iOS Developer passionate about creating intuitive and powerful mobile app
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0080FF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WidgetKit](https://img.shields.io/badge/WidgetKit-00D4FF?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 

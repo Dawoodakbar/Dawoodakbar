@@ -30,9 +30,9 @@ I'm an iOS Developer passionate about creating intuitive and powerful mobile app
 
 <div align="center">
 
-[![PokeDex](https://img.shields.io/badge/🧠_MoodJournalAI-View_Repo-blue?style=for-the-badge)](https://github.com/Dawoodakbar/Dex)
-[![JPApexPredators](https://img.shields.io/badge/✅_Task_Management-View_Repo-green?style=for-the-badge)](https://github.com/Dawoodakbar/JPApexPredators)
-[![BBQuotes](https://img.shields.io/badge/📊_Habit_Tracker-View_Repo-orange?style=for-the-badge)](https://github.com/Dawoodakbar/BBQuotes)
+[![PokeDex](https://img.shields.io/badge/🧠PokeDex-View_Repo-blue?style=for-the-badge)](https://github.com/Dawoodakbar/Dex)
+[![JPApexPredators](https://img.shields.io/badge/✅JPApexPredators-View_Repo-green?style=for-the-badge)](https://github.com/Dawoodakbar/JPApexPredators)
+[![BBQuotes](https://img.shields.io/badge/📊BBQuotes-View_Repo-orange?style=for-the-badge)](https://github.com/Dawoodakbar/BBQuotes)
 
 </div>
 

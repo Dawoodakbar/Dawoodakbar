@@ -77,7 +77,7 @@ I'm an iOS Developer passionate about creating intuitive and powerful mobile app
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawood-akbar-806bb62b6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dawood.akbar806@gmail.con)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dawood.akbar806@gmail.com)
 
 </div>
 

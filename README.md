@@ -30,16 +30,16 @@ I'm an iOS Developer passionate about creating intuitive and powerful mobile app
 
 <div align="center">
 
-[![MoodJournalAI](https://img.shields.io/badge/🧠_MoodJournalAI-View_Repo-blue?style=for-the-badge)](https://github.com/Dawoodakbar/MoodJournalAI)
-[![TaskManagement](https://img.shields.io/badge/✅_Task_Management-View_Repo-green?style=for-the-badge)](https://github.com/Dawoodakbar/TaskManagementApp)
-[![HabitTracker](https://img.shields.io/badge/📊_Habit_Tracker-View_Repo-orange?style=for-the-badge)](https://github.com/Dawoodakbar/HabitTrackerApp)
+[![PokeDex](https://img.shields.io/badge/🧠_MoodJournalAI-View_Repo-blue?style=for-the-badge)](https://github.com/Dawoodakbar/Dex)
+[![JPApexPredators](https://img.shields.io/badge/✅_Task_Management-View_Repo-green?style=for-the-badge)](https://github.com/Dawoodakbar/JPApexPredators)
+[![BBQuotes](https://img.shields.io/badge/📊_Habit_Tracker-View_Repo-orange?style=for-the-badge)](https://github.com/Dawoodakbar/BBQuotes)
 
 </div>
 
 ### 🎯 Current Focus
-- **MoodJournalAI**: AI-powered mood tracking and journaling
-- **Task Management App**: Productivity tool for organizing daily tasks
-- **Habit Tracker**: Build better habits with data-driven insights
+- **PokeDex**: A beautiful iOS app that serves as your personal Pokemon encyclopedia
+- **JPApexPredators App**: A beautifully designed iOS app showcasing the most fearsome predators from the Jurassic Park universe
+- **BBQuotes**: A beautiful iOS app that brings you random quotes, character information, and episode details from the Breaking Bad universe, including Breaking Bad, Better Call Saul, and El Camino.
 
 ## 📊 GitHub Stats
 

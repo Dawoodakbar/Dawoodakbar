@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://dawoodakbar.github.io"><img src="https://img.shields.io/badge/Portfolio-dawoodakbar.github.io-5b9dff?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+  <a href="https://dawoodakbar.github.io/Dawood_Akbar_iOS_Developer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f5a524?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"></a>
   <a href="https://linkedin.com/in/dawood-akbar"><img src="https://img.shields.io/badge/LinkedIn-dawood--akbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dawoodakbar806@gmail.com"><img src="https://img.shields.io/badge/Email-dawoodakbar806%40gmail.com-1f2a4d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to-iOS_roles-34d399?style=for-the-badge" alt="Open to iOS roles">

@@ -1,97 +1,41 @@
-# Hi there, I'm Dawood Akbar 👋
+# Dawood Akbar
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=600&lines=iOS+Developer;Swift+Enthusiast;Building+Amazing+Apps" alt="Typing SVG" />
-</div>
+**iOS Developer · Swift, UIKit, SwiftUI · Lahore, Pakistan**
 
-## 🚀 About Me
+I build and maintain production iOS apps. Two of the apps I work on are live on the App Store. My work covers feature development, push notifications, payments, Bluetooth devices, offline storage, and performance and memory fixes in existing codebases.
 
-I'm an iOS Developer passionate about creating intuitive and powerful mobile applications. I love turning ideas into reality through clean code and elegant design.
+[LinkedIn](https://linkedin.com/in/dawood-akbar) · dawoodakbar806@gmail.com
 
-- 🔭 Currently working on iOS applications using **Swift** and **SwiftUI**
-- 🌱 Learning advanced iOS patterns and architectures
-- 💡 Interested in AI integration, productivity apps, and user experience
-- 📱 Building apps that make a difference in people's daily lives
+## Production work
 
-## 🛠️ Tech Stack
+Client apps built at [MLBench](https://github.com/MLBenchPvtLtd) and 3TechSoft. The source is private; this is what I did on each.
 
-<div align="center">
+| App | What it is | My work |
+| --- | --- | --- |
+| **[Fikar](https://apps.apple.com/us/app/fikar/id6758303152)** · App Store | Islamic community platform | Main iOS contributor. Appointment booking with Apple Pay, chat with voice messages, FCM push with deep links, SwiftData caching, 4-language localization with RTL, XCUITest flows, memory-leak and data-race fixes. |
+| **[True Drop](https://apps.apple.com/us/app/true-drop/id6755297972)** · App Store | Sobriety and recovery app | StoreKit 2 subscriptions, entitlement sync with the back end, streaks and animated milestones. |
+| **Sokar** | Glucose monitoring | CoreBluetooth module: pairing, sessions, command building, response parsing, CRC-16 validation. Arabic and English localization. |
+| **Belleria** | Connected device companion | Sole iOS developer. Actor-based async/await networking layer, Keychain device key, Wi-Fi device setup, Socket.IO updates. |
+| **Sketch Anime** | Photo editing | Photo-to-sketch with Core Image in a UIKit codebase, cancellable background processing, iPad layouts. |
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0080FF?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-00D4FF?style=for-the-badge&logo=apple&logoColor=white)
+## Open source
 
-</div>
+| Repository | Stack | Notes |
+| --- | --- | --- |
+| [Movies Browser](https://github.com/Dawoodakbar/BroswersApp) | UIKit, Core Data, URLSession | Compositional layouts, search, pagination, offline favorites, image caching. |
+| [Dex](https://github.com/Dawoodakbar/Dex) | SwiftUI, Core Data, WidgetKit | Offline-first Pokédex with a home screen widget. |
+| [FireLime](https://github.com/Dawoodakbar/FireLime) | SwiftUI, Firebase | Real-time group chat with Apple and Google sign-in. |
+| [HP Trivia](https://github.com/Dawoodakbar/Hp-Trivia) | SwiftUI, StoreKit, AVKit | Quiz game with in-app purchases. |
+| [CueSense](https://github.com/Dawoodakbar/CueSense.swiftpm) | SwiftUI, SwiftData, Speech | On-device social-cue assistant. |
+| [BBQuotes](https://github.com/Dawoodakbar/BBQuotes) | SwiftUI, async/await | Quotes and characters from a REST API. |
 
-## 📱 Featured Projects
+**In progress: FitTracker.** An offline-first heart-rate workout tracker in Swift 6. Ten Swift Package modules on Clean Architecture, Core Data behind repository protocols, a CoreBluetooth heart-rate parser, a Vapor and PostgreSQL back end, and 97 tests written test-first.
 
-<div align="center">
+## Skills
 
-[![PokeDex](https://img.shields.io/badge/PokeDex-View_Repo-blue?style=for-the-badge)](https://github.com/Dawoodakbar/Dex)
-[![JPApexPredators](https://img.shields.io/badge/JPApexPredators-View_Repo-green?style=for-the-badge)](https://github.com/Dawoodakbar/JPApexPredators)
-[![BBQuotes](https://img.shields.io/badge/BBQuotes-View_Repo-orange?style=for-the-badge)](https://github.com/Dawoodakbar/BBQuotes)
-
-</div>
-
-### 🎯 Current Focus
-- **PokeDex**: A beautiful iOS app that serves as your personal Pokemon encyclopedia
-- **JPApexPredators App**: A beautifully designed iOS app showcasing the most fearsome predators from the Jurassic Park universe
-- **BBQuotes**: A beautiful iOS app that brings you random quotes, character information, and episode details from the Breaking Bad universe, including Breaking Bad, Better Call Saul, and El Camino.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawoodakbar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodakbar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodakbar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dawoodakbar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawoodakbar&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 💼 Experience & Skills
-
-- **Mobile Development**: iOS app development from concept to deployment
-- **UI/UX Implementation**: Creating beautiful and intuitive interfaces
-- **Problem Solving**: Breaking down complex problems into elegant solutions
-- **Version Control**: Git workflow and collaborative development
-- **App Architecture**: MVC, MVVM, and modern iOS patterns
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawood-akbar-806bb62b6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dawood.akbar806@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dawoodakbar&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  **💬 "Clean code always looks like it was written by someone who cares."**
-  
-  ⭐ From [Dawoodakbar](https://github.com/Dawoodakbar)
-  
-</div>
+- **iOS:** Swift, UIKit, SwiftUI, Combine, Core Data, SwiftData, CoreBluetooth, Core Image, StoreKit 2, WidgetKit
+- **Performance and concurrency:** async/await, actors, GCD, memory-leak, retain-cycle, and data-race fixes
+- **Networking and storage:** REST APIs, URLSession, Codable, Socket.IO, Keychain, offline caching
+- **Integrations:** Firebase Cloud Messaging, Firebase Auth and Firestore, Apple Pay, Sign in with Apple, Google Sign-In
+- **Architecture and quality:** MVVM, Clean Architecture, Coordinator, dependency injection, XCUITest, Swift Testing, SwiftLint
+- **Tools:** Xcode, Git, Swift Package Manager, CocoaPods, TestFlight, App Store Connect

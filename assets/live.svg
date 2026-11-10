@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Live on the App Store: Fikar, True Drop, Koy, Lumashape, MyMufti">
+<title>Live on the App Store: Fikar, True Drop, Koy, Lumashape, MyMufti</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1f"/><stop offset="1" stop-color="#131c38"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035"/></pattern>
+<clipPath id="round"><rect width="1200" height="96" rx="22"/></clipPath>
+
+</defs>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif; }
+.mono { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+
+.ring { animation: ring 2.2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes ring { 0% { transform: scale(.6); opacity: .7; } 100% { transform: scale(2.8); opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#round)">
+<rect width="1200" height="96" fill="url(#bg)"/>
+<rect width="1200" height="96" fill="url(#grid)"/>
+<text x="40" y="54" class="mono" font-size="13" letter-spacing="2.5" fill="#8f99bb">LIVE ON THE APP STORE</text><rect x="300" y="28" width="101" height="40" rx="20" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.35"/><circle class="ring" style="animation-delay:0.00s" cx="322" cy="48" r="5" fill="#34d399"/><circle cx="322" cy="48" r="5" fill="#34d399"/><text x="336" y="53.5" font-size="15" font-weight="600" fill="#f1f4fd">Fikar</text><rect x="415" y="28" width="137" height="40" rx="20" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.35"/><circle class="ring" style="animation-delay:0.35s" cx="437" cy="48" r="5" fill="#34d399"/><circle cx="437" cy="48" r="5" fill="#34d399"/><text x="451" y="53.5" font-size="15" font-weight="600" fill="#f1f4fd">True Drop</text><rect x="566" y="28" width="83" height="40" rx="20" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.35"/><circle class="ring" style="animation-delay:0.70s" cx="588" cy="48" r="5" fill="#34d399"/><circle cx="588" cy="48" r="5" fill="#34d399"/><text x="602" y="53.5" font-size="15" font-weight="600" fill="#f1f4fd">Koy</text><rect x="663" y="28" width="137" height="40" rx="20" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.35"/><circle class="ring" style="animation-delay:1.05s" cx="685" cy="48" r="5" fill="#34d399"/><circle cx="685" cy="48" r="5" fill="#34d399"/><text x="699" y="53.5" font-size="15" font-weight="600" fill="#f1f4fd">Lumashape</text><rect x="814" y="28" width="119" height="40" rx="20" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.35"/><circle class="ring" style="animation-delay:1.40s" cx="836" cy="48" r="5" fill="#34d399"/><circle cx="836" cy="48" r="5" fill="#34d399"/><text x="850" y="53.5" font-size="15" font-weight="600" fill="#f1f4fd">MyMufti</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="95" rx="22" fill="none" stroke="#27315a"/>
+</svg>

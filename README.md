@@ -33,7 +33,7 @@ Client apps built at [MLBench](https://github.com/MLBenchPvtLtd) and 3TechSoft. 
 
 ## Skills
 
-- **iOS:** Swift, UIKit, SwiftUI, Combine, Core Data, SwiftData, CoreBluetooth, Core Image, StoreKit 2, WidgetKit
+- **iOS:** Swift, UIKit, SwiftUI, Combine, Core Data, SwiftData, Core Animation, Core Graphics, CoreBluetooth, Core Image, StoreKit 2, WidgetKit
 - **Performance and concurrency:** async/await, actors, GCD, memory-leak, retain-cycle, and data-race fixes
 - **Networking and storage:** REST APIs, URLSession, Codable, Socket.IO, Keychain, offline caching
 - **Integrations:** Firebase Cloud Messaging, Firebase Auth and Firestore, Apple Pay, Sign in with Apple, Google Sign-In
